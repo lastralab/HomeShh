@@ -2,7 +2,7 @@
 
 Capstone: Programming for the Internet of Things: Smart Home
 
-# Planning
+## Planning
 
 First, I draw a random house so I could imagine real needs for my project and the possible sensors and components I would also need in order to satisfy them.
 
