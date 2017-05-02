@@ -1,6 +1,6 @@
-**# HomeShh**
+# HomeShh
 
-Capstone: Programming for the Internet of Things: Smart Home
+**Capstone**: Programming for the Internet of Things: Smart Home for people with different needs.
 
 ## Planning
 
