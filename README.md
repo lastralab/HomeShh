@@ -12,3 +12,4 @@ Next I started a prototype in Autodesk Circuits for a better aproach of what I w
 
 <img width="978" alt="screenshot 2017-05-02 18 07 23" src="https://cloud.githubusercontent.com/assets/22894897/25639438/51684a36-2f62-11e7-8653-918b19b87679.png">
 
+<img width="836" alt="screenshot 2017-05-02 18 37 14" src="https://cloud.githubusercontent.com/assets/22894897/25640576/68aa9bbe-2f66-11e7-8365-9adc3d321123.png">
