@@ -15,3 +15,7 @@ Next I started a prototype in Autodesk Circuits for a better aproach of what I w
 Simulating the house with the wires let me keep a better understanding of the idea.
 
 <img width="1075" alt="screenshot 2017-05-02 18 49 52" src="https://cloud.githubusercontent.com/assets/22894897/25640995/40c2dac4-2f68-11e7-9bac-98d53cca4bec.png">
+
+I used this gif as a guide for the RGB manipulation:
+
+![rgb](https://cloud.githubusercontent.com/assets/22894897/25641617/72d78ea8-2f6b-11e7-9035-39b5ee739fb3.gif)
