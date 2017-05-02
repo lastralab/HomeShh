@@ -14,4 +14,4 @@ Next I started a prototype in Autodesk Circuits for a better aproach of what I w
 
 Simulating the house with the wires let me keep a better understanding of the idea.
 
-<img width="978" alt="screenshot 2017-05-02 18 37 14" src="https://cloud.githubusercontent.com/assets/22894897/25640576/68aa9bbe-2f66-11e7-8365-9adc3d321123.png">
+<img width="1075" alt="screenshot 2017-05-02 18 49 52" src="https://cloud.githubusercontent.com/assets/22894897/25640995/40c2dac4-2f68-11e7-9bac-98d53cca4bec.png">
