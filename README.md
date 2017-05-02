@@ -8,7 +8,7 @@ First, I draw a random house so I could imagine real needs for my project and th
 
 ![home](https://cloud.githubusercontent.com/assets/22894897/25628609/38a11de0-2f3d-11e7-939e-ce560fed895a.jpeg)
 
-Next I started a prototype in Autodesk Circuits to get a better approach of what I was looking for.
+Next I started a prototype in Autodesk Circuits for a better aproach of what I was looking for.
 
 <img width="978" alt="screenshot 2017-05-02 18 07 23" src="https://cloud.githubusercontent.com/assets/22894897/25639438/51684a36-2f62-11e7-8653-918b19b87679.png">
 
