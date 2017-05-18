@@ -1,6 +1,6 @@
 # HomeShh
 
-**Capstone**: Programming for the Internet of Things: *Smart Home for people with different needs.*
+**Capstone**: Programming for the Internet of Things: *Smart Home for people with audition disabilities.*
 
 ## More information coming soon.
 
