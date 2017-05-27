@@ -6,7 +6,7 @@
 
 I'm still working on it.
 
-![screenshot 2017-05-27 14 31 12](https://cloud.githubusercontent.com/assets/22894897/26523222/313dc3f4-42e9-11e7-9290-4ddd016172f9.png)
+<img width="1252" alt="screenshot 2017-05-27 15 03 41" src="https://cloud.githubusercontent.com/assets/22894897/26523426/c1aa99f4-42ed-11e7-8626-1693cb55f707.png">
 
 Sorry, come back later.
 
