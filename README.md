@@ -10,8 +10,8 @@ Lots of wires, lots of code... I'm still working on it.
 
 First test:
 
--Yellow color means the light is ON but nothing is happening.
--Cian color means a phone-call is happening.
--Red color is for Fire Alarm.
+-Yellow color means the light is ON but nothing is happening.<br>
+-Cian color means a phone-call is happening.<br>
+-Red color is for Fire Alarm.<br>
 
 ![test1low](https://cloud.githubusercontent.com/assets/22894897/26525064/70a900ac-4321-11e7-8ad8-68f91556237c.gif)
