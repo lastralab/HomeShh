@@ -1,7 +1,7 @@
 # HomeShh
 *Smart Home for people with audition disabilities.*
 <br><br>
-<a href="https://www.coursera.org/learn/internet-of-things-project/home/welcome"><b>Coursera</b>: Programming for the Internet of Things Project by <b>University of California, Irvine</b></a>
+**Coursera:**<a href="https://www.coursera.org/learn/internet-of-things-project/home/welcome"> Programming for the Internet of Things Project by <b>University of California, Irvine</b></a>
 <br><br>
 # Documentation
 **Background**
