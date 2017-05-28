@@ -1,10 +1,9 @@
 # HomeShh
 *Smart Home for people with audition disabilities.*
 <br><br>
-**Capstone**: Specialization: Programming for the Internet of Things. 
+[**Capstone**]: Specialization: Programming for the Internet of Things. 
 <br><br>
 # Documentation
-<br><br>
 **Background**
 <br><br>
 My idea began when I was hearing a lot of noise in my home.  Cars outside, neighbors moving furniture, dishes noise, the old fridge complaining, kids crying, etc.  I needed to concentrate on something that day, so it was really bothering me.  And then, I started to imagine how is it to be deaf.  It seemed like a wonderful thing to me until I started to think in how would I be aware of the noises that are really important, like the door bell, the kettle boiling, things that I am used to hearing and that make me feel in control, somehow, of my time.  The microwave, the washing machine, the phone. And things that can save me from dying, like the fire alarm or the burglar alarm.  What if I am far away from my phone and someone is calling for an emergency? What if my family needs me in the middle of the night and they are outside, but my phone is off and I can’t hear them? Then I got it.
@@ -17,7 +16,7 @@ I did some research and started to read forums for deaf people.  I found a lot o
 
 The purpose of this project is to improve the quality of life of people with audition disabilities.  The desired end result is to provide an alternative way of being alarmed from the surrounding signals that are often designed for hearing people.
 
-- [Objectives](**Objectives**).
+**Objectives**
 
 -	Provide the user an alternative way to be notified by important alarms.
 -	Provide a reliable and effective alternative alarm system.
