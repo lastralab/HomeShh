@@ -10,7 +10,7 @@ I'm still working on it.
 
 First test:
 
-```C++
+```C
 // HomeShh - Capstone Project - Test 1
 // Main Arduino Uno
 // by Tania Molina.
