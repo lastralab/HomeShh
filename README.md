@@ -45,7 +45,7 @@ The HomeShh embedded system will be installed in a single home that already has 
 
 <img width="100%" alt="First Prototype" src="https://cloud.githubusercontent.com/assets/22894897/26525301/2dda1adc-432a-11e7-9246-1a05bf70bf40.png"/>
 
-# First test:
+# First test
 
 ```C++
 // HomeShh - Capstone Project - Test 1
@@ -130,7 +130,7 @@ void Nothing() {
   digitalWrite(B, LOW);
 }
 ```
-# Demo:<br>
+# Demo<br>
 
 - Yellow color means the light is ON but nothing is happening.<br>
 - Cyan color means a phone-call is happening.<br>
