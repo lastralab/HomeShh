@@ -3,7 +3,7 @@
 <br><br>
 **Capstone**: Specialization: Programming for the Internet of Things. 
 <br><br>
-**Documentation**
+# Documentation
 <br><br>
 **Background**
 <br><br>
