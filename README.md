@@ -82,7 +82,7 @@ void Red() {
   digitalWrite(B, LOW);
   digitalWrite(G, LOW);
 }
-void Cian() {
+void Cyan() {
   digitalWrite(R, LOW);
   digitalWrite(B, HIGH);
   digitalWrite(G, HIGH);
@@ -95,7 +95,7 @@ void Nothing() {
 ```
 # DEMO:<br>
 -Yellow color means the light is ON but nothing is happening.<br>
--Cian color means a phone-call is happening.<br>
+-Cyan color means a phone-call is happening.<br>
 -Red color is for Fire Alarm.<br>
 
 <img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525177/91887b0a-4325-11e7-9661-8c53bfa49b90.gif"/>
