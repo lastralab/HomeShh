@@ -101,7 +101,7 @@ void Nothing() {
   digitalWrite(B, LOW);
 }
 ```
-<tab>REFERENCE:</tab><br>
+# REFERENCE:<br>
 -Yellow color means the light is ON but nothing is happening.<br>
 -Cian color means a phone-call is happening.<br>
 -Red color is for Fire Alarm.<br>
