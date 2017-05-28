@@ -12,6 +12,7 @@ First test:
 
 ```C++
 // HomeShh - Capstone Project - Test 1
+// Main Arduino Uno
 // by Tania Molina.
 // All rights reserved.
 
