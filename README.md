@@ -49,6 +49,11 @@ The HomeShh embedded system will be installed in a single home that already has 
 # First test
 
 ```C++
+//  _ ___ _______     ___ ___ ___  ___ _   _ ___ _____ ___ 
+// / |_  )__ /   \   / __|_ _| _ \/ __| | | |_ _|_   _/ __| 
+// | |/ / |_ \ |) | | (__ | ||   / (__| |_| || |  | | \__ \ 
+// |_/___|___/___/   \___|___|_|_\\___|\___/|___| |_| |___/ 
+//
 // HomeShh - Capstone Project - Test 1
 // Main Arduino Uno
 // by Tania Molina.
