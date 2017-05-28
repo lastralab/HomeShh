@@ -130,7 +130,7 @@ void Nothing() {
   digitalWrite(B, LOW);
 }
 ```
-# DEMO:<br>
+# Demo:<br>
 -Yellow color means the light is ON but nothing is happening.<br>
 -Cyan color means a phone-call is happening.<br>
 -Red color is for Fire Alarm.<br>
