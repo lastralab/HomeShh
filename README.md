@@ -1,7 +1,7 @@
 # HomeShh
 *Smart Home for people with audition disabilities.*
 <br><br>
-[**Capstone**]: Specialization: Programming for the Internet of Things. 
+[Capstone Project] Specialization: Programming for the Internet of Things (href="https://www.coursera.org/learn/internet-of-things-project/home/welcome")
 <br><br>
 # Documentation
 **Background**
