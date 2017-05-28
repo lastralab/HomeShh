@@ -97,4 +97,4 @@ void Nothing() {
 -Cian color means a phone-call is happening.<br>
 -Red color is for Fire Alarm.<br>
 
-<img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525064/70a900ac-4321-11e7-8ad8-68f91556237c.gif"/>
+<img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525164/16745e7a-4325-11e7-950d-cf7ca3f3d398.gif"/>
