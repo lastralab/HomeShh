@@ -6,7 +6,7 @@
 
 I'm still working on it.
 
-<img width="100%" alt="First Prototype" src="https://cloud.githubusercontent.com/assets/22894897/26525259/001c72c6-4329-11e7-917d-7b13c6aec7ad.png"/>
+<img width="100%" alt="First Prototype" src="https://cloud.githubusercontent.com/assets/22894897/26525301/2dda1adc-432a-11e7-9246-1a05bf70bf40.png"/>
 
 First test:
 
