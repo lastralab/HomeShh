@@ -2,7 +2,7 @@
 *Smart Home for people with audition disabilities.*
 <br><br>
 **Coursera:** <a href="https://www.coursera.org/learn/internet-of-things-project/home/welcome"><b>Programming for the Internet of Things Capstone Project </b>by University of California, Irvine</a>.
-<br><br>
+<br>
 # Documentation
 
 **Background**
