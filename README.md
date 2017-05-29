@@ -141,4 +141,5 @@ void Nothing() {
 - Red color is for Fire Alarm.<br>
 <br>
 <img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525177/91887b0a-4325-11e7-9661-8c53bfa49b90.gif"/>
-**©L'Astra Lab**.
+
+**© L'Astra Lab**.
