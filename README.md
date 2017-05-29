@@ -56,8 +56,7 @@ The *HomeShh* embedded system will be installed in a single home that already ha
 //
 // HomeShh - Capstone Project - Test 1
 // Main Arduino Uno
-// by Tania Molina.
-// All rights reserved.
+// by Tania Molina ©
 
 const int G =12;
 const int B =11;
@@ -142,3 +141,4 @@ void Nothing() {
 - Red color is for Fire Alarm.<br>
 <br>
 <img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525177/91887b0a-4325-11e7-9661-8c53bfa49b90.gif"/>
+©Tania Molina
