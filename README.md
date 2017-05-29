@@ -40,7 +40,7 @@ The type of house may be crucial to determine time spent installing the system. 
 
 **Assumptions**
 
-The HomeShh embedded system will be installed in a single home that already has a security system, a doorbell, a phone and electricity installed.  
+The *HomeShh* embedded system will be installed in a single home that already has a security system, a doorbell, a phone and electricity installed.  
 
 # Preview
 
