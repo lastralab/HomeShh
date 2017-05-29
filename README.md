@@ -7,15 +7,15 @@
 
 **Background**
 
-My idea began when I was hearing a lot of noise in my home.  Cars outside, neighbors moving furniture, dishes noise, the old fridge complaining, kids crying, etc.  I needed to concentrate on something that day, so it was really bothering me.  And then, I started to imagine how is it to be deaf.  It seemed like a wonderful thing to me until I started to think in how would I be aware of the noises that are really important, like the door bell, the kettle boiling, things that I am used to hearing and that make me feel in control, somehow, of my time.  The microwave, the washing machine, the phone. And things that can save me from dying, like the fire alarm or the burglar alarm.  What if I am far away from my phone and someone is calling for an emergency? What if my family needs me in the middle of the night and they are outside, but my phone is off and I can’t hear them? Then I got it.
+My idea began when I was hearing a lot of noise in my home.  Cars outside, neighbors moving furniture, dishes noise, the old fridge complaining, neighbors' kids crying, etc.  I needed to concentrate on something that day, so it was really bothering me.  And then, I started to imagine how is it to be deaf.  It seemed like a wonderful thing to me until I started to think in how would I be aware of the noises that are really important, like the door bell, the phone, things that I am used to hearing and that make me feel in control, somehow, of my time.  The microwave, the washing machine... And things that can save me from dying, like the fire alarm or the burglar alarm.  What if I am far away from my phone and someone is calling for an emergency to my house? What if my family needs me in the middle of the night and they are outside, but my phone is off and I can’t hear them? Then I got it.
 
 If I were deaf I would like to have confidence when it comes to being aware of important sounds.  And I also wouldn’t like to have other things to worry about, so I imagined my house rigged with lightbulbs that change colors when something happens.  If I were to take a shower or my phone is not nearby, I would still know if something important were to happen.
 
-I did some research and started to read forums for deaf people.  I found a lot of devices that are already in the market and they are pretty effective but also pretty expensive.  After encountering with a few situations where deaf people were complaining about devices that are built for them, but designed by hearing people, I used a community platform to ask them what would they want out of devices to fully satisfy their needs.  I received negative answers like “There are good things already invented” or “You should improve the Heads Up Display (HUD) that already exists” … so the post didn’t go through my expectations.  I searched for other forums where similar questions were asked and I found more useful answers, like: “I’ve used strobes to notify me when the phone was ringing while I was sleeping… it gave me headaches, so I use a fan now and it works better for me”.  After this, I realized it would be helpful to develop an embedded system that could be implemented economically for most people with audition disabilities.
+I did some research and started to read forums for deaf people.  I found a lot of devices that are already in the market and they are pretty effective but also pretty expensive.  After encountering with a few situations where deaf people were complaining about devices that are built for them, but designed by hearing people, I used a community platform to ask them what would they want out of devices to fully satisfy their needs.  I received negative answers like “There are good things already invented” or “You should improve the Heads Up Display (HUD) that already exists” … so the post didn’t go through my expectations.  I searched for other forums where similar questions were asked and I found more useful answers, like: “I’ve used strobes to notify me when the phone was ringing while I was sleeping… it gave me headaches, so I use a fan now and it works better for me”.  After this, I realized it would be helpful to develop an embedded system that could be implemented economically and with the least inconvenience for most people with audition disabilities.
 
 **Purpose**
 
-The purpose of this project is to improve the quality of life of people with audition disabilities.  The desired end result is to provide an alternative way of being alarmed from the surrounding signals that are often designed for hearing people.
+Improve the quality of life of people with audition disabilities.  The desired end result is to provide an alternative way of being alarmed from the surrounding signals that are often designed for hearing people.
 
 **Objectives**
 
@@ -56,7 +56,7 @@ The *HomeShh* embedded system will be installed in a single home that already ha
 //
 // HomeShh - Capstone Project - Test 1
 // Main Arduino Uno
-// by Tania Molina ©
+// by Tania Molina©
 
 const int G =12;
 const int B =11;
@@ -141,4 +141,4 @@ void Nothing() {
 - Red color is for Fire Alarm.<br>
 <br>
 <img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525177/91887b0a-4325-11e7-9661-8c53bfa49b90.gif"/>
-©Tania Molina
+**©L'Astra Lab**.
