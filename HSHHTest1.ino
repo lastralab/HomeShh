@@ -1,6 +1,5 @@
 // HomeShh - Capstone Project
-// by Tania Molina.
-// All rights reserved.
+// Copyright: Tania Molina.
 
 const int G =12;
 const int B =11;
