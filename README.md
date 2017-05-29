@@ -111,7 +111,7 @@ void loop() {
   Serial.println("Signal");
   Serial.println(c);
   if (c < 10) {
-    Cian();
+    Cyan();
     tone(S, 700);
     delay(500);
   }
