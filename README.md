@@ -56,7 +56,8 @@ The *HomeShh* embedded system will be installed in a single home that already ha
 //
 // HomeShh - Capstone Project - Test 1
 // Main Arduino Uno
-// by Tania Molina©
+// by Tania Molina
+// © L'Astra Lab
 
 const int G =12;
 const int B =11;
