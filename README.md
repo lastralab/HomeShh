@@ -6,7 +6,7 @@
 **Simulation:**<br>
 <br>
 <img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525319/9a978c04-432a-11e7-92d5-d04edc16abf2.png"/><br>
-Click on the image to see it larger.<br>
+<p style=text-align:"right;" Click on the image to see it larger.</p><br>
 # Documentation
 
 **Background**
