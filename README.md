@@ -3,6 +3,7 @@
 <br><br>
 **Coursera:** <a href="https://www.coursera.org/learn/internet-of-things-project/home/welcome"><b>Programming for the Internet of Things Capstone Project </b>by University of California, Irvine</a>.
 <br>
+<img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525319/9a978c04-432a-11e7-92d5-d04edc16abf2.png"/><br>
 # Documentation
 
 **Background**
@@ -44,7 +45,7 @@ The *HomeShh* embedded system will be installed in a single home that already ha
 
 # Preview
 
-<img width="100%" alt="First Prototype" src="https://cloud.githubusercontent.com/assets/22894897/26525301/2dda1adc-432a-11e7-9246-1a05bf70bf40.png"/>
+<img width="100%" alt="First Prototype" src="https://cloud.githubusercontent.com/assets/22894897/26595899/3b8ab388-4543-11e7-982e-ad737da07ad3.png"/>
 
 # First test
 
