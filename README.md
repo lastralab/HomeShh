@@ -1,5 +1,5 @@
 # HomeShh
-<img width="506" alt="sign language" src="https://cloud.githubusercontent.com/assets/22894897/26735376/231a13aa-4798-11e7-8427-cf78fb74a2a2.png"><br>
+<img width="45%" alt="sign language" src="https://cloud.githubusercontent.com/assets/22894897/26735376/231a13aa-4798-11e7-8427-cf78fb74a2a2.png"><br>
 *Smart Home for people with audition disabilities.*
 <br><br>
 **Coursera:** <a href="https://www.coursera.org/learn/internet-of-things-project/home/welcome"><b>Programming for the Internet of Things Capstone Project </b>by University of California, Irvine</a>.
@@ -149,5 +149,5 @@ void Nothing() {
 <img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525177/91887b0a-4325-11e7-9661-8c53bfa49b90.gif"/>
 
 **© L'Astra Lab** <br>
-<img width="50%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png">
+<img width="15%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png">
 <br><br><br><br>
