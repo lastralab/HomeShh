@@ -1,5 +1,5 @@
-# HomeShh <img width="40%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png">
-
+# <img width="40%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png"><br>
+# HomeShh <br>
 *Smart Home for people with audition disabilities.*
 <br><br>
 **Coursera:** <a href="https://www.coursera.org/learn/internet-of-things-project/home/welcome"><b>Programming for the Internet of Things Capstone Project </b>by University of California, Irvine</a>.
