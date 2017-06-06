@@ -150,6 +150,5 @@ void Nothing() {
 <img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525177/91887b0a-4325-11e7-9661-8c53bfa49b90.gif"/>
 
 **© L'Astra Lab**<br>
-<img width="40%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png">
 <br><br><br><br>
 Final test coming soon...
