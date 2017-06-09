@@ -35,7 +35,7 @@ Improve the quality of life of people with audition disabilities.  The desired e
 
 While this project is intended to use economical components, it is crucial to select the best ones for stability and optimal performance, given changes in indoor temperature and humidity, and outdoor weather.
 
-The clients targeted by this project represent a small portion of the global population. For instance, approximately 15% of adults in the U.S.A. (37.5 million) aged 18 and over report some trouble hearing.   This project is intended for adults with trouble hearing, who live alone and require assistance from an alternative alarm system. However, the alarm system presented in this project may also be used by hearing people who just do not like the noisy alarms in their homes.
+The clients targeted by this project represent a small portion of the global population. For instance, approximately 15% of adults in the U.S.A. (37.5 million) aged 18 and over report some trouble hearing (<a href="https://www.cdc.gov/nchs/data/series/sr_10/sr10_260.pdf" target="_blank">Source</a>).   This project is intended for adults with trouble hearing, who live alone and require assistance from an alternative alarm system. However, the alarm system presented in this project may also be used by hearing people who just do not like the noisy alarms in their homes.
 
 **Deliverables**
 
