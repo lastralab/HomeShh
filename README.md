@@ -5,11 +5,10 @@
 <img width="40%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png"><br>
 **Coursera Specialization:** <a href="https://www.coursera.org/specializations/iot"><b>Programming for the Internet of Things Capstone Project</b></a> by University of California, Irvine.
 <br><br><br>
-**Simulation:**<br>
-<br>
-<img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525319/9a978c04-432a-11e7-92d5-d04edc16abf2.png"/><br>
-Click on the image to zoom.<br>
 
+**Simulator Reference**
+<img width="100%" alt="First Prototype" src="https://cloud.githubusercontent.com/assets/22894897/26595899/3b8ab388-4543-11e7-982e-ad737da07ad3.png"/>
+<br>
 # Documentation
 
 **Background**
@@ -49,8 +48,12 @@ The type of house may be crucial to determine time spent installing the system. 
 
 The *HomeShh* embedded system will be installed in a single home that already has a security system, a doorbell, a phone and electricity installed.  
 
-# Simulator Reference
-<img width="100%" alt="First Prototype" src="https://cloud.githubusercontent.com/assets/22894897/26595899/3b8ab388-4543-11e7-982e-ad737da07ad3.png"/>
+# Demo 
+- Yellow color means the light is ON but nothing is happening.<br>
+- Cyan color means a phone-call is happening.<br>
+- Red color is for Fire Alarm.<br>
+<br>
+<img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525177/91887b0a-4325-11e7-9661-8c53bfa49b90.gif"/>
 
 # First test
 
@@ -142,12 +145,6 @@ void Nothing() {
   digitalWrite(B, LOW);
 }
 ```
-# Demo 
-- Yellow color means the light is ON but nothing is happening.<br>
-- Cyan color means a phone-call is happening.<br>
-- Red color is for Fire Alarm.<br>
-<br>
-<img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525177/91887b0a-4325-11e7-9661-8c53bfa49b90.gif"/>
 
 **© L'Astra Lab**<br>
 <br><br><br><br>
