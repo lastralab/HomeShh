@@ -7,6 +7,7 @@
 <br><br><br>
 
 **Simulator Reference**
+<br><br>
 <img width="100%" alt="First Prototype" src="https://cloud.githubusercontent.com/assets/22894897/26595899/3b8ab388-4543-11e7-982e-ad737da07ad3.png"/>
 <br>
 # Documentation
