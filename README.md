@@ -8,7 +8,7 @@
 
 **Simulator Reference**
 <br><br>
-<img width="100%" alt="First Prototype" src="https://cloud.githubusercontent.com/assets/22894897/26595899/3b8ab388-4543-11e7-982e-ad737da07ad3.png"/>
+<img width="100%" alt="First Prototype" src="https://user-images.githubusercontent.com/22894897/27014087-edc1fa6a-4ec7-11e7-8e2f-3a0ac20d22b9.png"/>
 <br>
 # Documentation
 
