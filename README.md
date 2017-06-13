@@ -1,22 +1,15 @@
 # HomeShh
-
 *Smart Home for people with audition disabilities.*
 <br><br>
-<img width="40%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png"><br>
 **Coursera Specialization:** <a href="https://www.coursera.org/specializations/iot"><b>Programming for the Internet of Things Capstone Project</b></a> by University of California, Irvine.
-<br><br><br>
-
-**Simulator Reference**
 <br><br>
-<img width="100%" alt="First Prototype" src="https://user-images.githubusercontent.com/22894897/27061461-7c017cd6-4fba-11e7-8401-6c9a3f4c1e57.png"/>
-<br>
 # Documentation
 
 **Background**
 
-The idea began when I was hearing a lot of noise in my home.  Cars outside, neighbors moving furniture, dishes noise, the old fridge complaining, neighbors' kids crying, etc.  I needed to concentrate on something that day, so it was really bothering me.  And then, I started to imagine how is it to be deaf.  It seemed like a wonderful thing to me until I started to think in how would I be aware of the noises that are really important, like the door bell, the phone, things that I am used to hearing and that make me feel in control, somehow, of my time.  The microwave, the washing machine... And things that can save me from dying, like the fire alarm or the burglar alarm.  What if I am far away from my phone and someone is calling for an emergency to my house? What if my family needs me in the middle of the night and they are outside, but my phone is off and I can’t hear them? Then I got it.
+The idea began when I was hearing a lot of noise in my home.  Cars and motorcycles outside, neighbors moving furniture, dishes noise, the old fridge complaining, kids crying, etc.  I needed to concentrate on something that day, so the noises were really bothering me.  And then, I started to imagine how is it to be deaf.  It seemed like a wonderful thing to me until I started to think in how would I be aware of the noises that are really important, like the door bell, the phone... Or things that can save me from dying, like the fire alarm or the burglar alarm.  What if I am far away from my phone and someone is calling for an emergency to my house? What if my family needs me in the middle of the night and they are outside, but my phone is off and I can’t hear them? Then I got it.
 
-If I were deaf I would like to have confidence when it comes to being aware of important sounds.  And I also wouldn’t like to have other things to worry about, so I imagined my house rigged with lightbulbs that change colors when something happens.  If I were to take a shower or my phone is not nearby, I would still know if something important were to happen.
+If I were deaf I would like to have confidence when it comes to being aware of important sounds.  And I also wouldn’t like to have other things to worry about (smartphone battery, stolen smarthphone, etc.), so I imagined my house rigged with lightbulbs that change colors when something happens.  If I were to take a shower or my cellphone is not nearby, I would still know if something important were to happen.
 
 I did some research and started to read forums for deaf people.  I found a lot of devices that are already in the market and they are pretty effective but also pretty expensive.  After encountering with a few situations where deaf people were complaining about devices that are built for them, but designed by hearing people, I used a community platform to ask them what would they want out of devices to fully satisfy their needs.  I received negative answers like “There are good things already invented” or “You should improve the Heads Up Display (HUD) that already exists” … so the post didn’t go through my expectations.  I searched for other forums where similar questions were asked and I found more useful answers, like: “I’ve used strobes to notify me when the phone was ringing while I was sleeping… it gave me headaches, so I use a fan now and it works better for me”.  After this, I realized it would be helpful to develop an embedded system that could be implemented economically and with the least inconvenience for most people with audition disabilities.
 
@@ -27,13 +20,11 @@ Improve the quality of life of people with audition disabilities.  The desired e
 **Objectives**
 
 -	Provide the user an alternative way to be notified by important alarms.
--	Provide a reliable and effective alternative alarm system.
+-	Provide a reliable and effective alternative alarm system (not connected to the network for full security purposes).
 -	Create a design that will serve as a platform that can be modified for diverse users with different needs.
 -	Create an economical design with minimal financial cost.
 
 **Scope**
-
-While this project is intended to use economical components, it is crucial to select the best ones for stability and optimal performance, given changes in indoor temperature and humidity, and outdoor weather.
 
 The clients targeted by this project represent a small portion of the global population. For instance, approximately 15% of adults in the U.S.A. (37.5 million) aged 18 and over report some trouble hearing (<a href="https://www.cdc.gov/nchs/data/series/sr_10/sr10_260.pdf" target="_blank">Source</a>).  This project is intended for adults with trouble hearing, who live alone and require assistance from an alternative alarm system. However, the alarm system presented in this project may also be used by hearing people who just do not like the noisy alarms in their homes.
 
@@ -43,7 +34,7 @@ The system will work once the installation of the sensors and lightbulbs is fini
 
 **Constraints**
 
-The type of house may be crucial to determine time spent installing the system.  The house may contain its own alarm devices, or may be a building with other apartments involved, which might require different installation procedures.  The installation process may take one hour, or perhaps more, but the maximum deliverable time should not be more than four hours.
+The type of house may be crucial to determine time spent installing the system.  The house may contain its own alarm devices, or may be a building with other apartments and systems involved, which might require different installation procedures.
 
 **Assumptions**
 
@@ -148,11 +139,20 @@ void Nothing() {
 ```
 # Final Test
 
-This is a huge gif, it may take a while before you can see it running.
+Color table:
+Red - Fire
+Green - Doorbell
+Blue - Robbery
+Cyan - Phone
+Yellow - Nothing happening
 
+<img width="40%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png"><br>
+
+This is a long gif, it may take a while before you can see it running.<br>
+<br>
 <img width="100%" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
-
-for video + funny audio explaining everything, click <a href="https://www.youtube.com/watch?v=z1szOew7xPg"> here</a>. 
+<br>
+For video + funny audio explaining everything, click <a href="https://www.youtube.com/watch?v=z1szOew7xPg"> here</a>. 
 
 **© L'Astra Lab**<br>
-<br><br>
+<br>
