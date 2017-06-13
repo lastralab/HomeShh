@@ -1,6 +1,8 @@
 # HomeShh
 *Smart Home for people with audition disabilities.*
-<br><br>
+<br>
+<img width="40%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png"><br>
+<br>
 **Coursera Specialization:** <a href="https://www.coursera.org/specializations/iot"><b>Programming for the Internet of Things Capstone Project</b></a> by University of California, Irvine.
 <br><br>
 # Documentation
@@ -139,15 +141,14 @@ void Nothing() {
 ```
 # Final Test
 
-Color table:
-Red - Fire
-Green - Doorbell
-Blue - Robbery
-Cyan - Phone
-Yellow - Nothing happening
-
-<img width="40%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png"><br>
-
+Color table:<br>
+Red - Fire<br>
+Green - Doorbell<br>
+Blue - Robbery<br>
+Cyan - Phone<br>
+Yellow - Nothing happening<br>
+<img width="100%" src="https://user-images.githubusercontent.com/22894897/27061461-7c017cd6-4fba-11e7-8401-6c9a3f4c1e57.png"/>
+<br>
 This is a long gif, it may take a while before you can see it running.<br>
 <br>
 <img width="100%" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
