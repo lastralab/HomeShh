@@ -148,11 +148,11 @@ Blue    Robbery<br>
 Cyan    Phone<br>
 Yellow  Nothing happening<br>
 <br>
-<img width="100%" src="https://user-images.githubusercontent.com/22894897/27061461-7c017cd6-4fba-11e7-8401-6c9a3f4c1e57.png"/>
+<img width="100%" alt="image house labeled" src="https://user-images.githubusercontent.com/22894897/27061461-7c017cd6-4fba-11e7-8401-6c9a3f4c1e57.png"/>
 <br>
-This is a long gif, it may take a while before you can see it running.<br>
+This is a long gif, it may take a while before you can see it running:<br>
 <br>
-<img width="100%" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
+<img width="100%" alt="huge gif" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
 <br>
 For video + funny audio explaining everything, click <a href="https://www.youtube.com/watch?v=z1szOew7xPg"> here</a>. 
 
