@@ -146,7 +146,13 @@ void Nothing() {
   digitalWrite(B, LOW);
 }
 ```
+# Final Test
+
+This is a huge gif, it may take a while before you can see it running.
+
+<img width="100%" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
+
+video + funny audio explaining everything, here: https://www.youtube.com/watch?v=z1szOew7xPg
 
 **© L'Astra Lab**<br>
-<br><br><br><br>
-Final test coming soon...
+<br><br>
