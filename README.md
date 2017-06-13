@@ -142,7 +142,7 @@ void Nothing() {
 # Final Test
 
 **Color table:**<br>
-<img width="308" alt="color table" src="https://user-images.githubusercontent.com/22894897/27101869-b2829c1e-5059-11e7-849c-03c6c271d4d4.png"/>
+<img width="280" alt="color table" src="https://user-images.githubusercontent.com/22894897/27101869-b2829c1e-5059-11e7-849c-03c6c271d4d4.png"/>
 <br>
 <img width="100%" alt="image house labeled" src="https://user-images.githubusercontent.com/22894897/27061461-7c017cd6-4fba-11e7-8401-6c9a3f4c1e57.png"/>
 <br>
