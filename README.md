@@ -49,7 +49,7 @@ The *HomeShh* embedded system will be installed in a single home that already ha
 <br>
 <img width="100%" src="https://cloud.githubusercontent.com/assets/22894897/26525177/91887b0a-4325-11e7-9661-8c53bfa49b90.gif"/>
 
-# First test
+**Code for Demo**
 
 ```C++
 //  _ ___ _______     ___ ___ ___  ___ _   _ ___ _____ ___ 
