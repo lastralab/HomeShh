@@ -150,7 +150,7 @@ This is a long gif, it may take a while before you can see it running:<br>
 <br>
 <img width="100%" alt="huge gif" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
 <br>
-For video + funny audio explaining everything, click <a href="https://www.youtube.com/watch?v=z1szOew7xPg"> here</a>. 
+For video + weird audio explaining everything, click <a href="https://www.youtube.com/watch?v=z1szOew7xPg"> here</a>. 
 
 **© L'Astra Lab**<br>
 <br>
