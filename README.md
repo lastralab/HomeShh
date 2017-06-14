@@ -22,7 +22,7 @@ Improve the quality of life of people with audition disabilities.  The desired e
 **Objectives**
 
 -	Provide the user an alternative way to be notified by important alarms.
--	Provide a reliable and effective alternative alarm system (not connected to the network for full security purposes).
+-	Provide a reliable and effective alternative alarm system (not connected to the network to get full and absolute security).
 -	Create a design that will serve as a platform that can be modified for diverse users with different needs.
 -	Create an economical design with minimal financial cost.
 
