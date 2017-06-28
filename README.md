@@ -5,11 +5,11 @@
 <br>
 **Coursera Specialization:** <a href="https://www.coursera.org/specializations/iot" target="_blank"><b>Programming for the Internet of Things Capstone Project</b></a> by University of California, Irvine.
 <br><br>
-# Documentation
+# Introduction
 
 **Background**
 
-The idea began when I was hearing a lot of noise in my home.  Cars and motorcycles outside, neighbors moving furniture, dishes noise, the old fridge complaining, kids crying, etc.  I needed to concentrate on something that day, so the noises were really bothering me.  And then, I started to imagine how is it to be deaf.  It seemed like a wonderful thing to me until I started to think in how would I be aware of the noises that are really important, like the door bell, the phone... Or things that can save me from dying, like the fire alarm or the burglar alarm.  What if I am far away from my phone and someone is calling for an emergency to my house? What if my family needs me in the middle of the night and they are outside, but my phone is off and I can’t hear them? Then I got it.
+The idea began when I was hearing a lot of noise in my home.  Cars and motorcycles outside, neighbors moving furniture, dishes noise, the old fridge complaining, kids crying, etc.  I needed to concentrate on something that day, so the noises were really bothering me.  And then, I started to imagine how is it to be deaf.  It seemed like a wonderful thing to me until I started to think in how would I be aware of the noises that are really important, like the door bell, the phone... Or things that can save me from dying, like the fire alarm or the burglar alarm.  What if I am far away from my phone and someone is calling for an emergency to my house? What if my family needs me in the middle of the night and they are outside, but my phone is off and I can’t hear them?
 
 If I were deaf I would like to have confidence when it comes to being aware of important sounds.  And I also wouldn’t like to have other things to worry about (smartphone battery dead, hackers messing with the system, stolen smarthphone, etc.), so I imagined my house rigged with lightbulbs that change colors when something happens.  If I were to take a shower or my cellphone is not nearby, I would still know if something important were to happen.
 
@@ -21,7 +21,6 @@ Improve the quality of life of people with audition disabilities.  The desired e
 
 **Objectives**
 
--	Provide the user an alternative way to be notified by important alarms.
 -	Provide a reliable and effective alternative alarm system (not connected to the network).
 -	Create a design that will serve as a platform that can be modified for diverse users with different needs.
 -	Create an economical design with minimal financial cost.
@@ -33,10 +32,6 @@ The clients targeted by this project represent a small portion of the global pop
 **Deliverables**
 
 The system will work once the installation of the sensors and lightbulbs is finished.  The sensors must be connected to each alarm device (phone, doorbell, security alarm, etc.) in order to send the right signals to the microcontroller.  The lightbulbs are wireless- controlled (Bluetooth), so lightbulbs around the house need to be replaced.  Once the alarm devices are identified, they may be connected to the microcontroller via wires, and the microcontroller placed in a convenient location. The whole process may take a maximum of four hours.
-
-**Constraints**
-
-The type of house may be crucial to determine time spent installing the system.  The house may contain its own alarm devices, or may be a building with other apartments and systems involved, which might require different installation procedures.
 
 **Assumptions**
 
@@ -146,7 +141,7 @@ void Nothing() {
 <br>
 <img width="100%" alt="image house labeled" src="https://user-images.githubusercontent.com/22894897/27061461-7c017cd6-4fba-11e7-8401-6c9a3f4c1e57.png"/>
 <br>
-Simulation:<br>
+**Simulation:**<br>
 <br>
 <img width="100%" alt="huge gif" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
 <br>
