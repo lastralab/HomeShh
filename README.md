@@ -29,7 +29,7 @@ The clients targeted by this project represent a small portion of the global pop
 
 **Deliverables**
 
-The system will work once the installation of the sensors and lightbulbs is finished.  The sensors must be connected to each alarm device (phone, doorbell, security alarm, etc.) in order to send the right signals to the microcontroller.  The lightbulbs are wireless- controlled (Bluetooth), so lightbulbs around the house need to be replaced.  Once the alarm devices are identified, they may be connected to the microcontroller via wires, and the microcontroller placed in a convenient location. The whole process may take a maximum of four hours.
+The system will work once the installation of the sensors and lights is finished.  The sensors must be connected to each alarm device (phone, doorbell, security alarm, etc.) in order to send the right signals to the microcontroller.  The RGB lights will be placed in each room of the house and the energy will be supplied by a light socket adapter.  Once the alarm devices are identified, they may be connected to the microcontroller via wires, and the microcontroller placed in a convenient location. The whole process may take a maximum of eight hours.
 
 **Assumptions**
 
@@ -143,7 +143,6 @@ void Nothing() {
 <br>
 <img width="100%" alt="huge gif" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
 <br>
-For video + weird audio explaining everything, click <a href="https://www.youtube.com/watch?v=z1szOew7xPg"> here</a>. 
-
+<br>
 **© L'Astra Lab**<br>
 <br>
