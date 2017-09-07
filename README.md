@@ -144,4 +144,4 @@ void Nothing() {
 <img width="100%" alt="huge gif" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
 <br>
 <br>
-<p align="center"><a href="https://taniamol.github.io/website/" target="_blank"><br><button><img src="http://i.imgur.com/ERyS5Xn.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br><br>
+<p align="center"><a href="https://lastralab.github.io/website/" target="_blank"><br><button><img src="http://i.imgur.com/ERyS5Xn.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br><br>
