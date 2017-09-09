@@ -1,5 +1,5 @@
 // HomeShh - Capstone Project
-// Copyright: Tania Molina.
+// Author: Niam Moltta
 
 const int G =12;
 const int B =11;
