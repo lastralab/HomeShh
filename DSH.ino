@@ -52,7 +52,7 @@ void loop() {
 
 */
 
-//Real Code:**********************************************************************:
+// Activity Code:**********************************************************************:
 
 // HomeShh - IoT Specialization Capstone Project
 // Smart Home for deaf people
