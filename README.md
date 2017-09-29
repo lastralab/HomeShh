@@ -3,7 +3,7 @@
 <br>
 <img width="40%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png"><br>
 <br>
-**Coursera Specialization:** <a href="https://www.coursera.org/specializations/iot" target="_blank"><b>Programming for the Internet of Things Capstone Project</b></a> by University of California, Irvine.
+**Coursera Specialization:** <a href="https://www.coursera.org/specializations/iot" target="_blank"><b>Programming for the Internet of Things Capstone Project</b></a>: University of California, Irvine.
 <br><br>
 # Introduction
 
@@ -140,6 +140,9 @@ void Nothing() {
 <img width="100%" alt="image house labeled" src="https://user-images.githubusercontent.com/22894897/27061461-7c017cd6-4fba-11e7-8401-6c9a3f4c1e57.png"/>
 <br>
 **Simulation:**<br>
+<br>
+https://www.tinkercad.com/things/afNAJcOk2rS-sim-zatknis-dom-/editel?sharecode=b4-hxomIlO_lSzW6PpGuVMrkRsW0HRKllROT_KIAYx4=
+<br>
 <br>
 <img width="100%" alt="huge gif" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
 <br>
