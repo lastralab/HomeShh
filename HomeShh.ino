@@ -1,8 +1,7 @@
 // HomeShh - IoT Specialization Capstone Project
 // Smart home for deaf people
-// Author: Niam Moltta
-// LICENSE: Apache License 2004
-// Jun - 2017
+// Apache License
+// Copyright 2017 Niam Moltta
 // Simulator (needs request to run full version): https://circuits.io/circuits/5215668-/edit
 
 const int G =12;  // green
