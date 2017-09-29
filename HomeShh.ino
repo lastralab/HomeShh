@@ -2,9 +2,16 @@
 // Smart home for deaf people
 // Apache License
 // Copyright 2017 Niam Moltta
-// Simulator: https://circuits.io/circuits/5215668-/edit
 
-// Copy the circuit and use this code to perform the simulation.
+// Simulator "Заткнись дом": https://www.tinkercad.com/things/afNAJcOk2rS-sim-zatknis-dom-/editel?sharecode=b4-hxomIlO_lSzW6PpGuVMrkRsW0HRKllROT_KIAYx4=
+
+// Copy the circuit from the simulator above and use the code below to perform the simulation.
+
+/* 
+The simulation includes a house (drawn as cables), you can see the reference at the README.md file in this repository.
+Once you are running the simulation, you can activate/deactivate the sensors manually and see how the HomeShh works.
+There are gif files at the README.md where you can see a couple of demostrations. 
+*/
 
 const int G =12;  // green
 const int B =11;  // blue
