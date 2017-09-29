@@ -1,5 +1,6 @@
 // HomeShh - Capstone Project
-// Author: Niam Moltta
+// Copyright 2017 Niam Moltta
+// License: Apache License
 
 const int G =12;
 const int B =11;
