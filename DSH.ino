@@ -56,7 +56,7 @@ void loop() {
 
 // HomeShh - IoT Specialization Capstone Project
 // Smart Home for deaf people
-// by Tania Molina.
+// by Niam Moltta.
 
 const int G =12; 
 const int B =11; 
