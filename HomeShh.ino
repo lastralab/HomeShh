@@ -2,7 +2,9 @@
 // Smart home for deaf people
 // Apache License
 // Copyright 2017 Niam Moltta
-// Simulator (needs request to run full version): https://circuits.io/circuits/5215668-/edit
+// Simulator: https://circuits.io/circuits/5215668-/edit
+
+// Copy the circuit and use this code to perform the simulation.
 
 const int G =12;  // green
 const int B =11;  // blue
@@ -59,6 +61,7 @@ void setup()
 void loop() {
   
    //Car present
+  
   long car = digitalRead(E);
  
  if(car == HIGH) {
@@ -195,7 +198,7 @@ long b = digitalRead(K);
  
 }
 
-//RGB*****************************************************************//
+//RGB's*****************************************************************//
 
 void Fire() {
   //RED!
@@ -216,7 +219,7 @@ void Robbery() {
   digitalWrite(G, LOW);
 }
 void Noise() { //ABOVE 120db!!!
-  //MAGENTA (OPTIONAL WITH RASPBERRY PI)
+  //MAGENTA 
   digitalWrite(R, HIGH);
   digitalWrite(B, HIGH);
   digitalWrite(G, LOW);
@@ -233,7 +236,6 @@ void Nothing() {
   digitalWrite(B, LOW);
   digitalWrite(G, HIGH);
 }
- //END MAIN RGB's*****************************************************************
 
 //BEDROOM FAN ALARM RGB
 
@@ -256,7 +258,7 @@ void RobberyS() {
   digitalWrite(C, LOW);
 }
 void NoiseS() { //ABOVE 120db!!!
-  //MAGENTA (for RASPBERRY PI, since the simulator doesn't have microphones)
+  //MAGENTA (the simulator doesn't have microphones)
   digitalWrite(A, HIGH);
   digitalWrite(D, HIGH);
   digitalWrite(C, LOW);
@@ -279,4 +281,4 @@ void NothingS() {
   digitalWrite(C, LOW);
 } 
 
-/* ************************END************************************************************/
+// END
