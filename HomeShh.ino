@@ -13,6 +13,7 @@ Once you are running the simulation, you can activate/deactivate the sensors man
 There are gif files at the README.md where you can see a couple of demostrations. 
 */
 
+// Light settings:
 const int G =12;  // green
 const int B =11;  // blue
 const int R =13;  // red
@@ -67,7 +68,7 @@ void setup()
 
 void loop() {
   
-   //Car present
+   // Car in the garage (when motion sensor is activated in simulator)
   
   long car = digitalRead(E);
  
@@ -86,7 +87,8 @@ void loop() {
    
   }
    
-  //Fire simulation
+  //Fire simulation (smoke detector is activated in the simulator)
+  
   s = analogRead(V);
   Serial.println("Smoke Signal K");
   Serial.println(s);
@@ -130,7 +132,7 @@ void loop() {
     OffS();
   }
   
-  //Phone simulation
+  // Phone simulation (pushbutton is pressed in the simulator)
   
   c = analogRead(Y);
   Serial.println("call");
@@ -154,7 +156,8 @@ void loop() {
     
   }
   
-  //Doorbell simulation
+  // Doorbell simulation (pushbutton is pressed in the simulator)
+  
   db = analogRead(P);
   Serial.println("Signal");
   Serial.println(db);
@@ -178,7 +181,7 @@ void loop() {
     
   }
   
-  //Burglar Simulation
+  // Burglar Simulation (one or both of the motion sensors at the house entrances are activated in the simulator)
 
 long b = digitalRead(K);
  
@@ -205,7 +208,7 @@ long b = digitalRead(K);
  
 }
 
-//RGB's*****************************************************************//
+// Functions for RGB lights:
 
 void Fire() {
   //RED!
@@ -244,7 +247,7 @@ void Nothing() {
   digitalWrite(G, HIGH);
 }
 
-//BEDROOM FAN ALARM RGB
+// BEDROOM FAN ALARM RGB (In real life this would have a reset button next to the bed so the fan could be reset by user after waking up)
 
  void FireS() {
   //RED!
@@ -288,4 +291,4 @@ void NothingS() {
   digitalWrite(C, LOW);
 } 
 
-// END
+// END of functions
