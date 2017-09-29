@@ -15,7 +15,7 @@ I did some research and started to read forums for deaf people.  I found a lot o
 
 **Purpose**
 
-Improve the quality of life of people with audition disabilities.  The desired end result is to provide an alternative way of being alarmed from the surrounding signals that are often designed for hearing people.
+The desired end result is to provide an alternative way of being alarmed from the surrounding signals that are often designed for hearing people. And also, to avoid external threats (hackers) by making it offline.
 
 **Objectives**
 
@@ -29,7 +29,7 @@ The clients targeted by this project represent a small portion of the global pop
 
 **Deliverables**
 
-The system will work once the installation of the sensors and lights is finished.  The sensors must be connected to each alarm device (phone, doorbell, security alarm, etc.) in order to send the right signals to the microcontroller.  The RGB lights will be placed in each room of the house and the energy will be supplied by a light socket adapter.  Once the alarm devices are identified, they may be connected to the microcontroller via wires, and the microcontroller placed in a convenient location. The whole process may take a maximum of eight hours.
+The system will work once the installation of the sensors and lights is finished.  The sensors must be connected to each alarm device (phone, doorbell, security alarm, etc.) in order to send the right signals to the microcontroller.  The RGB lights will be placed in each room of the house and the energy will be supplied by a light socket adapter.  Once the alarm devices are identified, they may be connected to the microcontroller via wires, and the microcontroller placed in a convenient location. The whole process may take a maximum of six hours.
 
 **Assumptions**
 
