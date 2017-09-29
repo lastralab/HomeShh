@@ -15,11 +15,11 @@ I did some research and started to read forums for deaf people.  I found a lot o
 
 **Purpose**
 
-The desired end result is to provide an alternative way of being alarmed from the surrounding signals that are often designed for hearing people. And also, to avoid external threats (hackers) by making it offline.
+The desired end result is to provide an alternative way of being alarmed from the surrounding signals that are often designed for hearing people. And also, to avoid external threats (hackers) by making it offline and autonomous (without the intervention of a smart device that can also be hacked/lost/stolen).
 
 **Objectives**
 
--	Provide a reliable and effective alternative alarm system (not connected to the network).
+-	Provide a reliable and effective alternative alarm system (not connected to any kind of network).
 -	Create a design that will serve as a platform that can be modified for diverse users with different needs.
 -	Create an economical design with minimal financial cost.
 
