@@ -1,4 +1,4 @@
-# <a href="https://makershare.com/projects/homeshh">Project updates</a>
+# Project updates
 
 <img src="https://user-images.githubusercontent.com/22894897/33862841-06f17a0a-dea2-11e7-9b97-01cd8a1dce81.JPG" width="50%"><img src="https://user-images.githubusercontent.com/22894897/33862842-070f012e-dea2-11e7-9ceb-14df768c9784.JPG" width="50%">
 
@@ -67,7 +67,8 @@ void Nothing() {
   digitalWrite(Gr, HIGH);
   digitalWrite(Bl, HIGH);
 }
-
-
 ```
 
+**Final wiring for test:**
+
+<img src="https://user-images.githubusercontent.com/22894897/33864046-01881e42-dea8-11e7-80a5-2ca3382db4da.JPG" width="75%" align="center"/>
