@@ -1,6 +1,6 @@
 # Project updates
 
-<img src="https://user-images.githubusercontent.com/22894897/33862841-06f17a0a-dea2-11e7-9b97-01cd8a1dce81.JPG" width="48%"><img src="https://user-images.githubusercontent.com/22894897/33864787-ab37301a-deab-11e7-976a-fb18a2434b10.png" width="52%">
+<img src="https://user-images.githubusercontent.com/22894897/33862841-06f17a0a-dea2-11e7-9b97-01cd8a1dce81.JPG" width="49%"><img src="https://user-images.githubusercontent.com/22894897/33864787-ab37301a-deab-11e7-976a-fb18a2434b10.png" width="51%">
 
 **Test Code:**
 
