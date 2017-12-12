@@ -73,4 +73,6 @@ void Nothing() {
 
 <p align="center"><img src="https://user-images.githubusercontent.com/22894897/33864046-01881e42-dea8-11e7-80a5-2ca3382db4da.JPG" width="75%"/></p>
 
-<p align="center"><img src="https://i.imgur.com/Wzean9e.gif"/></p>
+<br>
+<br>
+<p align="center"><a href="https://lastralab.github.io/website/timeline/" target="_blank"><br><button><img src="http://i.imgur.com/ERyS5Xn.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br><br>
