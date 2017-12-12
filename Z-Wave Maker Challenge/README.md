@@ -1,6 +1,6 @@
 # Project updates
 
-<img src="https://user-images.githubusercontent.com/22894897/33862841-06f17a0a-dea2-11e7-9b97-01cd8a1dce81.JPG" width="50%"><img src="https://user-images.githubusercontent.com/22894897/33862842-070f012e-dea2-11e7-9ceb-14df768c9784.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/22894897/33862841-06f17a0a-dea2-11e7-9b97-01cd8a1dce81.JPG" width="50%"><img src="https://user-images.githubusercontent.com/22894897/33864787-ab37301a-deab-11e7-976a-fb18a2434b10.png" width="50%">
 
 **Test Code:**
 
@@ -72,3 +72,7 @@ void Nothing() {
 **Final wiring for test:**
 
 <p align="center"><img src="https://user-images.githubusercontent.com/22894897/33864046-01881e42-dea8-11e7-80a5-2ca3382db4da.JPG" width="75%"/></p>
+
+**Fixing errors**
+
+<img src="https://i.imgur.com/PhPazJs.gif" width="100%"/>
