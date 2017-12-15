@@ -6,7 +6,7 @@
 
 ```Arduino
 
-// HomeShh TEST - IoT Specialization Capstone Project
+// HomeShh TEST
 // Z-Wave Challenge
 // by Niam Moltta.
 // December 2017
