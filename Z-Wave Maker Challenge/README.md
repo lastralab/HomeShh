@@ -7,7 +7,7 @@
 ```Arduino
 
 // HomeShh TEST
-// Z-Wave Challenge
+// Z-Wave Maker Challenge
 // by Niam Moltta.
 // December 2017
 
