@@ -1,7 +1,7 @@
 # HomeShh
 *Smart Home for people with audition disabilities.*
 <br>
-For a simulation video click <a href="https://www.youtube.com/watch?v=kOvg-w_Msgw">here</a>. <br>
+For a simulation video and explanation click <a href="https://www.youtube.com/watch?v=kOvg-w_Msgw">here</a>. <br>
 <img width="40%" alt="screenshot 2017-06-02 13 31 13" src="https://cloud.githubusercontent.com/assets/22894897/26735392/359a385c-4798-11e7-8b29-aaf75361bb56.png"><br>
 <br>
 # Introduction
