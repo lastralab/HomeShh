@@ -71,7 +71,7 @@ void Nothing() {
 
 **Final wiring for test:**
 
-<p align="center"><img src="https://user-images.githubusercontent.com/22894897/33864046-01881e42-dea8-11e7-80a5-2ca3382db4da.JPG" width="45%"/><img src="https://user-images.githubusercontent.com/22894897/34066098-411638e2-e1c7-11e7-9e28-4551fcdb24af.gif" width="55%"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/22894897/33864046-01881e42-dea8-11e7-80a5-2ca3382db4da.JPG" width="45.5%"/><img src="https://user-images.githubusercontent.com/22894897/34066098-411638e2-e1c7-11e7-9e28-4551fcdb24af.gif" width="54.5%"/></p>
 
 <br>
 <br>
