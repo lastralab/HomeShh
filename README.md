@@ -138,12 +138,4 @@ void Nothing() {
 <br>
 <img width="100%" alt="image house labeled" src="https://user-images.githubusercontent.com/22894897/27061461-7c017cd6-4fba-11e7-8401-6c9a3f4c1e57.png"/>
 <br>
-**Simulation:**<br>
-<br>
-https://www.tinkercad.com/things/afNAJcOk2rS-sim-zatknis-dom-/editel?sharecode=b4-hxomIlO_lSzW6PpGuVMrkRsW0HRKllROT_KIAYx4=
-<br>
-<br>
-<img width="100%" alt="huge gif" src="https://user-images.githubusercontent.com/22894897/27100226-b2c14d34-5053-11e7-862c-7d18bc519132.gif"/> 
-<br>
-<br>
-<p align="center"><a href="https://lastralab.github.io/website/" target="_blank"><br><button><img src="http://i.imgur.com/ERyS5Xn.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br><br>
+
