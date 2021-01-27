@@ -6,12 +6,6 @@
 <br>
 # Introduction
 
-**Background**
-
-The idea began when I was hearing a lot of noise in my home.  Cars and motorcycles outside, neighbors moving furniture, dishes noise, the old fridge complaining, kids crying, etc.  I needed to concentrate on something that day, so the noises were really bothering me.  And then, I started to imagine how is it to be deaf.  It seemed like a wonderful thing to me until I started to think in how would I be aware of the noises that are really important, like the door bell, the phone... Or things that can save me from dying, like the fire alarm or the burglar alarm.  If I were deaf I would like to have confidence when it comes to being aware of important sounds.  And I also wouldn’t like to have other things to worry about (smartphone battery dead, hackers messing with the system, stolen smarthphone, etc.), so I imagined my house rigged with lightbulbs that change colors when something happens.  If I were to take a shower or my cellphone is not nearby, I would still know if something important were to happen.
-
-I did some research and started to read forums for deaf people.  I found a lot of devices that are already in the market and they are pretty effective but also pretty expensive.  After encountering with a few situations where deaf people were complaining about devices that are built for them, but designed by hearing people, I used a community platform to ask them what would they want out of devices to fully satisfy their needs.  I received negative answers like “There are good things already invented” or “You should improve the Heads Up Display (HUD) that already exists” … so the post didn’t go through my expectations.  I searched for other forums where similar questions were asked and I found more useful answers, like: “I’ve used strobes to notify me when the phone was ringing while I was sleeping… it gave me headaches, so I use a fan now and it works better for me”.  After this, I realized it would be helpful to develop an embedded system that could be implemented economically and with the least inconvenience for most people with audition disabilities.
-
 **Purpose**
 
 The desired end result is to provide an alternative way of being alarmed from the surrounding signals that are often designed for hearing people. And also, to avoid external threats (hackers) by making it offline and autonomous (without the intervention of a smart device that can also be hacked/lost/stolen).
@@ -19,7 +13,7 @@ The desired end result is to provide an alternative way of being alarmed from th
 **Objectives**
 
 -	Provide a reliable and effective alternative alarm system (not connected to any kind of network).
--	Create a design that will serve as a platform that can be modified for diverse users with different needs.
+-	Create a design that will serve as a platform that can be flexible for diverse users with different needs.
 -	Create an economical design with minimal financial cost.
 
 **Scope**
